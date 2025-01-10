@@ -1,6 +1,8 @@
 # Cube-Fall
 **Cube Fall** is a Unity game where players navigate a cube through a challenging level filled with various types of tiles. The goal is to avoid obstacles, survive the moving tiles, and reach the end of the level.
 
+* * * * *![Screenshot 2025-01-10 175712](https://github.com/user-attachments/assets/f4188e70-6738-4445-b049-c0886a9f56cb)
+
 Features
 --------
 
@@ -9,7 +11,7 @@ Features
 -   **Spiked Tiles**: Hazardous tiles that must be avoided at all costs.
 -   **Dynamic Gameplay**: A mix of tile types and movements keeps each playthrough engaging and challenging.
 
-* * * * *
+
 
 Getting Started
 ---------------
