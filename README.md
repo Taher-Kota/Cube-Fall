@@ -30,7 +30,7 @@ Follow the steps below to set up and play the Cube Fall project on your local ma
     -   Clone the repository using Git:
 
         ```
-        git clone <repository-url>
+        git clone https://github.com/Taher-Kota/Cube-Fall.git
 
         ```
 
